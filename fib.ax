@@ -1,0 +1,3 @@
+nums -> 1..10
+squares -> nums @ {x -> x*x}
+print squares
